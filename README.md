@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
 ## Sample Screen
-![Angular - Google Maps Demo](https://github.com/gerlie-reyes/googlemap/tree/master/servicequalifier/src/assets/images/sample screen.png)
+![Angular - Google Maps Demo](src/assets/images/samplescreen.jpg)
 
 ## Local Development setup
 - Download and install [node](https://nodejs.org/en/download)
