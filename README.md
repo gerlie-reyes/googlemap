@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Demo in netlify
 
 https://gr-googlemapapi.netlify.app/
+Unfortunately, there'a a limit in Google API requests if you don't attach billing. So map won't show in some cases.
 
 ## Sample Screen
 
